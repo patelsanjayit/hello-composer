@@ -1,11 +1,11 @@
 {
-  "name": "sanjay/hello-composer",
+  "name": "methaniya/hello-composer",
   "description": "This is demo",
   "type": "composer pulgin",
   "license": "SP",
   "authors": [
     {
-      "name": "Sanjay Patel",
+      "name": "Sanjay Methaniya",
       "email": "patelsanjay.it@gmail.com"
     }
   ],
