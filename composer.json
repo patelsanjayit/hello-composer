@@ -1,0 +1,13 @@
+{
+  "name": "sanjay/hello-composer",
+  "description": "This is demo",
+  "type": "composer pulgin",
+  "license": "SP",
+  "authors": [
+    {
+      "name": "Sanjay Patel",
+      "email": "patelsanjay.it@gmail.com"
+    }
+  ],
+  "require": {}
+}
